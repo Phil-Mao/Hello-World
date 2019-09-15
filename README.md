@@ -1,2 +1,4 @@
 # Hello-World
-Just a expression
+Hi Humans!
+This is my first repository here!
+Thanks!
